@@ -12,15 +12,15 @@ This page is meant for you to showcase your case study, podcasts, and blog posts
 
 About Me
 ---
-My name is Evan Olds. I’m a Computer Science student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.A. in Computer Science.
+My name is Evan Olds. I’m a junior Computer Science student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.A. in Computer Science. I have loved technology since I was a kid, and always felt so much curiosity and excitement when looking at technology (like new computers or phones), and realized that I wanted to go into computer science.
 
 Research 
 ---
-I'm interested in researching more about Artifical Intelligence, as well as Cybersecurity.
+I'm interested in researching more about Artifical Intelligence, as well as Game design. AI is taking a big role in society nowadays, and the morals juxtaposed with its phenomenal abilities is requiring a huge discussion about its use. 
 
 Personal Life
 ---
-In my free time I enjoy playing violin, listening to music, and playing video games. I started playing Viola in 5th grade and switched to violin in my sophomore year of college. 
+In my free time I enjoy playing violin, listening to music, and playing video games. I have two brothers and a sister, and I grew up playing a lot of video games alongside them. Some of my first video games were Pokemon Soul Silver, Super Mario Galaxy, and Legend of Zelda: Phantom Hourglass. I started playing Viola in 5th grade and switched to violin in my sophomore year of college. Music is one of my biggest interests and passions, and I firmly believe life would be dull without it.
 
 
 For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
